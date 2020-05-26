@@ -1,0 +1,17 @@
+.navbar-form input{width: 500px;}
+.navbar{background-color: blue; padding-right: 150px; 
+	box-sizing: border-box;margin-bottom: 0;border-radius: 0;}
+.navopt{ font-size: 16px; color: white;}
+
+.secnav{background-color: white; margin: 0 0;}
+.secnav a{color: black;  font-size: 16px;}
+.secnav li{padding-left: 50px; box-sizing: border-box;}
+.bannerimg{height: 300px;	}
+.container{width: 100%; background-color: silver; padding: 10px;
+ padding-bottom: 50px; box-sizing: border-box;}
+.carousel{margin-bottom: 0; padding-bottom: 0;}
+.paddingclass{background-color: silver; padding: 10px;
+box-sizing: border-box;}
+.products{margin-top: -50px; padding-left: 50px;}
+.glyphicon-chevron-left{padding-bottom: 0;}
+.searchf{margin-left: 200px;}

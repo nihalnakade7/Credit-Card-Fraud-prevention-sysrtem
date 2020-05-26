@@ -1,0 +1,25 @@
+.navbar-form input{width: 500px;}
+.navbar{background-color: blue; padding-right: 150px; 
+	box-sizing: border-box;margin-bottom: 0;border-radius: 0;}
+.logo{padding-left: 150px; box-sizing: border-box;}
+.logo .flipcart{color: white; margin: 0 0; font-weight: bold; 
+	font-style: italic;}
+.logo .logosub{font-size: 12px; font-style: italic; color: white;}
+.logo .logosub span{color: orange;}
+.navopt{ font-size: 16px; color: white;}
+
+.secnav{background-color: white; margin: 0 0;}
+.secnav a{color: black;  font-size: 16px;}
+.secnav li{padding-left: 50px; box-sizing: border-box;}
+.bannerimg{height: 300px;	}
+.carousel{margin-bottom: 0;}
+.paddingclass{background-color: silver; padding: 10px;
+box-sizing: border-box;}
+.page-header{background-color: white; padding: 10px;}
+.thumbnail{border: none;}
+.new_launches input{padding:10PX 20px; box-sizing: border-box;}
+.new-launches
+.row{margin-left: 0; margin-right: 0;}
+/*Banner 2*/
+
+.images2{margin-bottom: 10px;}
